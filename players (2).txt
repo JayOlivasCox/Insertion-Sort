@@ -1,0 +1,7 @@
+bioID,firstName,lastName,pos,height,weight,college,birthDate
+gasolpa01,Pau,Gasol,F,84,227,none,1980-07-06
+grayaa01,Aaron,Gray,C,84,270,Pittsburgh,1984-12-07
+richach01,Chris,Richard,F,81,255,Florida,1984-12-25
+jamesle01,LeBron,James,F,80,240,none,1984-12-30
+splitti01,Tiago,Splitter Beims,F,83,232,none,1985-01-01
+kleizli01,Linas,Kleiza,F,80,245,Missouri,1985-01-03
